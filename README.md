@@ -74,7 +74,7 @@ Output figures are saved in the working directory.
 ![Controlled simulation comparison](example/simulation_vs_parametric.png)
 
 
-Comparison of density profiles from controlled simulations with predictions from the original PSIDM and recalibrated BaryonicPSIDM models.
+Comparison of density profiles from controlled simulations with predictions from the recalibrated BaryonicPSIDM models.
 
 ### Subhalo population
 
