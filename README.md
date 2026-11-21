@@ -100,5 +100,7 @@ before evaluating the density models.
 ## References 
 
 [Meiwen Yang et al. (2026)](https://arxiv.org/abs/26XX.XXXX)
+
 [Yang (2024)](https://arxiv.org/abs/2405.03787)
+
 For dark matter only and the original version of the models, see the [GitHub page here](https://github.com/DanengYang/parametricSIDM).
