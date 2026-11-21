@@ -1,12 +1,9 @@
-# Recalibrated BaryonicPSIDM
+# Baryonic Parametric Model for SIDM Halos
 
-This repository provides a recalibrated parametric model for
-self-interacting dark matter (SIDM) halo density profiles in the
-presence of baryons.
+This repository provides a parametric model for self-interacting dark matter (SIDM) halo density profiles in the presence of baryons. 
 
-The implementation builds on the original PSIDM framework and includes
-examples comparing the model predictions with controlled simulations
-and illustrating subhalo density profiles in a galaxy cluster.
+The recalibration incorporates a new set of controlled simulations with live stars, improving the description of baryon-suppressed core formation and subsequent contraction. 
+Examples compare predictions with simulations and illustrate applications to cluster subhalos. 
 
 ## File structure
 
@@ -100,11 +97,8 @@ In the supplied subhalo parameter table, `Mh` and `Mb` are stored in
 units of 10^10 solar masses. The example script converts these values
 before evaluating the density models.
 
-## References and acknowledgements
+## References 
 
-This implementation builds on the original PSIDM framework.
-Please cite the associated recalibration paper, the original model
-papers, and the relevant simulation references when using this repository.
-
-Full bibliographic information will be added with the accompanying
-publication.
+[Meiwen Yang et al. (2026)](https://arxiv.org/abs/26XX.XXXX)
+[Yang (2024)](https://arxiv.org/abs/2405.03787)
+For dark matter only and the original version of the models, see the [GitHub page here](https://github.com/DanengYang/parametricSIDM).
